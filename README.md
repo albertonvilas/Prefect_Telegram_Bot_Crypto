@@ -1,4 +1,4 @@
-# Prefect_Discord_Bot
+# Prefect_Telegram_Bot
 
 Get price for multiple pairs of assets, save them into google drive and send news by telegram
 
